@@ -1,0 +1,9 @@
+*.env
+nginx/
+venv/
+.DS_Store
+.ipynb_checkpoints
+testing
+**/*.jpg
+**/*.png
+__pycache__
